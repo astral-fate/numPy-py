@@ -1,4 +1,4 @@
-# py
+# py numPy
 
 Some methods with array using numPy in python
 
